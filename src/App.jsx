@@ -8,7 +8,6 @@ function App() {
       <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home></Home>}/>
-        {/* <Route path='/contact' element={<Contact/>}/> */}
       </Routes>
       </BrowserRouter>
     </div>
